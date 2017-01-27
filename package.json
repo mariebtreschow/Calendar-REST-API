@@ -1,0 +1,27 @@
+{
+  "name": "google-calendar-api",
+  "version": "1.0.0",
+  "main": "quickstart.js",
+  "dependencies": {
+    "commander": "^2.1.0",
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^16.1.0",
+    "readlines": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariebtreschow/Calendar-REST-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariebtreschow/Calendar-REST-API/issues"
+  },
+  "homepage": "https://github.com/mariebtreschow/Calendar-REST-API#readme",
+  "description": ""
+}
